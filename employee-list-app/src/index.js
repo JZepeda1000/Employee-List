@@ -18,7 +18,7 @@ const PersonList = () => {
     <section className="person-list">
       <Person img="35" name="Eric B." job="Financial Advisor" />
       <Person img="22" name="Robert C." job="English Instructor" />
-      <Person img="35" name="Mark P." job="Fabrication Foreman" />
+      <Person img="50" name="Mark P." job="Fabrication Foreman" />
     </section>
   )
 };
